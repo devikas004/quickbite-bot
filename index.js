@@ -1,6 +1,3 @@
-// index.js — QuickBite Support Chatbot
-// Run: node index.js
-
 import Groq from "groq-sdk";
 import * as readline from "readline";
 import { readFileSync } from "fs";
